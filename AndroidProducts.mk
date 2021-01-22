@@ -15,4 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_TB8704.mk
+    $(LOCAL_DIR)/aosp_TB8704.mk
+
+COMMON_LUNCH_CHOICES := \
+     aosp_TB8704-userdebug \
+     aosp_TB8704-eng \
+     aosp_TB8704-user
