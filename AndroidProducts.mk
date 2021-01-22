@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_TB8704.mk
+    $(LOCAL_DIR)/aosp_TB8704.mk
